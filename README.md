@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Budhadev Das</h1>
 
 <h3 align="center">
-🚀 AI/ML Enthusiast | GenAI Developer | Python & React Developer
+🚀 AI/ML Enthusiast | ML/DL Developer | Python & React Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;GenAI+Developer;Python+Backend+Developer;React+Frontend+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;ML/DL+Developer;Python+Backend+Developer;React+Frontend+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -76,15 +76,15 @@
 
 # 📊 GitHub Stats
 
-<span> 
+<span align="left"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mikun007&show_icons=true&theme=tokyonight" /> 
 </span>
 
-<span>
+<span align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikun007&theme=tokyonight" />
 </span>
 
-<span> 
+<span align="right"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mikun007&layout=compact&theme=tokyonight" /> 
 </span>
 
@@ -121,4 +121,3 @@ I turn coffee ☕ into AI models 🤖
 <h2 align="center">
 ⭐ Thanks for visiting my profile ⭐
 </h2>
-```
