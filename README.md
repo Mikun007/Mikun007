@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:mikundas2000@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
