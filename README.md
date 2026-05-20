@@ -10,14 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=root%40Mikun007:~%24+initialize;Loading+AI+Models...;Accessing+Neural+Network...;System+Online..." />
 </p>
 
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mikun007&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
-
 ---
 
 # 🌐 Connect With Me
