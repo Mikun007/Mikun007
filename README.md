@@ -70,23 +70,26 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikun007&theme=tokyo-night" /> </p>
 
+# 🐍 Snake Eating Contributions
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Mikun007/Mikun007/output/github-contribution-grid-snake.svg" /> </p>
+
 # 📊 GitHub Stats
 
-<span align="left"> 
+<span> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mikun007&show_icons=true&theme=tokyonight" /> 
 </span>
 
-<span align="center">
+<span>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikun007&theme=tokyonight" />
 </span>
 
-<span align="right"> 
+<span> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mikun007&layout=compact&theme=tokyonight" /> 
 </span>
 
 # 🚀 Current Focus
 
-```python
 Learning:
     - GenAI
     - LLM Applications
@@ -100,13 +103,6 @@ Building:
     - ML Projects
     - Flask APIs
     - Full Stack Applications
-````
-
----
-
-# 🐍 Snake Eating Contributions
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Mikun007/Mikun007/output/github-contribution-grid-snake.svg" /> </p>
 
 ---
 
@@ -119,10 +115,10 @@ I turn coffee ☕ into AI models 🤖
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Mikun007&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">
+<h2 align="center">
 ⭐ Thanks for visiting my profile ⭐
-</h3>
+</h2>
 ```
