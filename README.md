@@ -124,7 +124,7 @@
 # 🌌 3D Contribution Graph
 
 <p align="center"> 
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="1000" /> 
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="1000" /> 
 </p>
 
 ---
