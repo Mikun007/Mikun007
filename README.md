@@ -9,6 +9,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;ML%2FDL+Developer;Python+Backend+Developer;React+Frontend+Developer;Always+Learning+New+Things" />
 </p>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=root%40Mikun007:~%24+initialize;Loading+AI+Models...;Accessing+Neural+Network...;System+Online..." />
+</p>
+
+
 ---
 
 # 🌐 Connect With Me
