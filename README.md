@@ -80,11 +80,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mikun007&layout=compact&theme=tokyonight" /> 
 </p>
 
-
-<p align="center">
-  <img src="https://vercel.app" alt="Mikun007's Activity Graph" />
-</p>
----
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikun007&theme=tokyo-night" /> </p>
 
 # 🚀 Current Focus
 
