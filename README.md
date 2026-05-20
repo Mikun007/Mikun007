@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Budhadev Das</h1>
 
 <h3 align="center">
-🚀 AI/ML Enthusiast | GenAI Developer | Flask & React Developer
+🚀 AI/ML Enthusiast | GenAI Developer | Python & React Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;GenAI+Developer;Flask+Backend+Developer;React+Frontend+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;GenAI+Developer;Python+Backend+Developer;React+Frontend+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -70,8 +70,9 @@
 </p>
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikun007&layout=compact&theme=tokyonight" /> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mikun007&layout=compact&theme=tokyonight" /> 
 </p>
+
 
 ---
 # 🏆 GitHub Trophies
