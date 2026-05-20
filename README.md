@@ -116,14 +116,6 @@ Building:
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikun007&theme=tokyo-night" />
-</p>
-
----
-
 # 🐍 Snake Eating Contributions
 
 <p align="center">
