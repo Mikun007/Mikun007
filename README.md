@@ -60,6 +60,15 @@
 </p>
 
 ---
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mikun007&theme=tokyonight&row=1&column=6" />
+</p>
+
+# 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikun007&theme=tokyonight" />
+
 
 # 📊 GitHub Stats
 
@@ -76,23 +85,7 @@
 </p>
 
 
-## 📅 Contribution Calendar
-
-<div class="calendar"></div>
-
-<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
-
-<script>
-GitHubCalendar(".calendar", "Mikun007");
-</script>
-
-
 ---
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mikun007&theme=tokyonight&row=1&column=6" />
-</p>
 
 ---
 
@@ -118,9 +111,7 @@ Building:
 
 # 🐍 Snake Eating Contributions
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mikun007/Mikun007/output/github-contribution-grid-snake.svg" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Mikun007/Mikun007/output/github-contribution-grid-snake.svg" /> </p>
 
 ---
 
