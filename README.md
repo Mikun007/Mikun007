@@ -12,9 +12,10 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Mikun007&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
 
 
 ---
