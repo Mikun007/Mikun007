@@ -39,7 +39,7 @@
 
 <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
@@ -106,7 +106,7 @@ Building:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=/Mikun007&theme=tokyo-night" />
 </p>
 
 ---
@@ -114,7 +114,7 @@ Building:
 # 🐍 Snake Eating Contributions
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Mikun007/Mikun007/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
