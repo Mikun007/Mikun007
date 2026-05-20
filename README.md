@@ -78,7 +78,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mikun007&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ Building:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=/Mikun007&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikun007&theme=tokyo-night" />
 </p>
 
 ---
