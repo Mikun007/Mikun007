@@ -72,17 +72,17 @@
 
 # 📊 GitHub Stats
 
-<p align="left"> 
+<span align="left"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mikun007&show_icons=true&theme=tokyonight" /> 
-</p>
+</span>
 
-<p align="center">
+<span align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikun007&theme=tokyonight" />
-</p>
+</span>
 
-<p align="right"> 
+<span align="right"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mikun007&layout=compact&theme=tokyonight" /> 
-</p>
+</span>
 
 # 🚀 Current Focus
 
