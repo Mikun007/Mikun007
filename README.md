@@ -120,6 +120,11 @@
   />
 </p>
 
+# 🕹️ Pacman Contribution Game 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Mikun007/Mikun007/output/pacman-contribution-graph.svg"> 
+</p>
+
 ---
 
 # 🌌 3D Contribution Graph
