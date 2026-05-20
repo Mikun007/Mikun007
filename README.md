@@ -123,11 +123,8 @@
 
 # 🌌 3D Contribution Graph
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/docs/demo.svg"
-    width="1000"
-  />
+<p align="center"> 
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="1000" /> 
 </p>
 
 ---
