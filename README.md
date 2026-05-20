@@ -85,7 +85,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Flask+Backend+Developer;React+Frontend+Developer;GenAI+Developer;Always+Learning+New+Things" />
 </p>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikun007&layout=compact&theme=tokyonight" />
 ---
 
 # 🚀 Current Focus
