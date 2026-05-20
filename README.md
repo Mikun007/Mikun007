@@ -1,5 +1,5 @@
 ````html````
-<h1 align="center">Hi 👋, I'm Mikun Das</h1>
+<h1 align="center">Hi 👋, I'm Budhadev Das</h1>
 
 <h3 align="center">
 🚀 AI/ML Enthusiast | GenAI Developer | Flask & React Developer
@@ -14,7 +14,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/budhadev-das-002689199/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
