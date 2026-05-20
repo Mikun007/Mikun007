@@ -66,9 +66,13 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Mikun007&theme=tokyonight&row=1&column=6" />
 </p>
 
+# 📈 GitHub Activity
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikun007&theme=tokyo-night" /> </p>
+
 # 📊 GitHub Stats
 
-<p align="center"> 
+<p align="left"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mikun007&show_icons=true&theme=tokyonight" /> 
 </p>
 
@@ -76,11 +80,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikun007&theme=tokyonight" />
 </p>
 
-<p align="center"> 
+<p align="right"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mikun007&layout=compact&theme=tokyonight" /> 
 </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikun007&theme=tokyo-night" /> </p>
 
 # 🚀 Current Focus
 
