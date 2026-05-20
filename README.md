@@ -78,10 +78,7 @@
 
 ## 📅 Contribution Calendar
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Mikun007" />
-</p>
-
+<p align="center"> <img src="https://ghchart.rshah.org/58a6ff/Mikun007" alt="Mikun007 Github chart" width="1000" /> </p>
 
 
 ---
