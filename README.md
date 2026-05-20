@@ -78,7 +78,13 @@
 
 ## 📅 Contribution Calendar
 
-<p align="center"> <img src="https://ghchart.rshah.org/58a6ff/Mikun007" alt="Mikun007 Github chart" width="1000" /> </p>
+<div class="calendar"></div>
+
+<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+
+<script>
+GitHubCalendar(".calendar", "Mikun007");
+</script>
 
 
 ---
