@@ -41,7 +41,8 @@
 
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
 
 <img src="https://img.shields.io/badge/langchain-000000?style=for-the-badge" />
 
