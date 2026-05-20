@@ -122,7 +122,7 @@
 
 # 🕹️ Pacman Contribution Game 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/Mikun007/Mikun007/output/pacman-contribution-graph.svg"> 
+  <img src="https://raw.githubusercontent.com/Mikun007/Mikun007/output/pacman-contribution-graph-dark.svg"> 
 </p>
 
 ---
