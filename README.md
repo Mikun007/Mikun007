@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Mikun007">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
@@ -66,10 +66,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Mikun007&theme=tokyonight&row=1&column=6" />
 </p>
 
-# 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikun007&theme=tokyonight" />
-
-
 # 📊 GitHub Stats
 
 <p align="center"> 
@@ -85,7 +81,10 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Flask+Backend+Developer;React+Frontend+Developer;GenAI+Developer;Always+Learning+New+Things" />
+</p>
+
 
 ---
 
