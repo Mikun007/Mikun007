@@ -76,7 +76,7 @@
 
 # 📊 GitHub Stats
 
-<span align="left"> 
+<span align="left" width="50%"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mikun007&show_icons=true&theme=tokyonight" /> 
 </span>
 
