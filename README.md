@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Budhadev Das</h1>
 
 <h3 align="center">
-🚀 AI/ML Enthusiast | ML/DL Developer | Python & React Developer
+🚀 AI/ML Enthusiast | ML/DL Developer | Python Developer
 </h3>
 
 
