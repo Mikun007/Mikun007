@@ -127,11 +127,11 @@
 
 ---
 
-# 🌌 3D Contribution Graph
+<!--# 🌌 3D Contribution Graph -->
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="1000" /> 
-</p>
+</p> -->
 
 ---
 
