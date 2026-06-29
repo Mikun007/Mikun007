@@ -64,6 +64,7 @@
 
 ---
 
+<!--
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -71,6 +72,7 @@
     src="https://github-profile-trophy.vercel.app/?username=Mikun007&theme=tokyonight&no-frame=true&row=1&column=7" 
   />
 </p>
+-->
 
 ---
 # 📊 GitHub Stats
@@ -91,7 +93,7 @@
 
 
 ---
-
+<!--
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -101,7 +103,7 @@
 </p>
 
 ---
-
+-->
 # 📈 GitHub Activity Graph
 
 <p align="center">
