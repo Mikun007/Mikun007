@@ -62,9 +62,10 @@
 
 </p>
 
----
+
 
 <!--
+---
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -92,8 +93,9 @@
 </p>
 
 
----
+
 <!--
+---
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -102,8 +104,8 @@
   />
 </p>
 
----
 -->
+---
 # 📈 GitHub Activity Graph
 
 <p align="center">
@@ -127,10 +129,8 @@
   <img src="https://raw.githubusercontent.com/Mikun007/Mikun007/output/pacman-contribution-graph-dark.svg"> 
 </p>
 
----
-
 <!--# 🌌 3D Contribution Graph -->
-
+---
 <!-- <p align="center"> 
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="1000" /> 
 </p> -->
